@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ZEKE_XU/Documents/HabitTracker/assignment1/src/HabitTracker/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="372f4d746b3ddb247bf3e94a5409932d62ccbd59">
+        <dex dex="/Users/ZEKE_XU/Documents/HabitTracker/assignment1/src/HabitTracker/app/build/intermediates/pre-dexed/debug/instant-run_0feb5240ad071b5365443b8e467e792dcc28953c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ZEKE_XU/Documents/HabitTracker/assignment1/src/HabitTracker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="/Users/ZEKE_XU/Documents/HabitTracker/assignment1/src/HabitTracker/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-18.0.0_872e30aa7f0050eb0dce4a883ea76324ed070894.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ZEKE_XU/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/ZEKE_XU/Documents/HabitTracker/assignment1/src/HabitTracker/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_af364555b613aa107780b63228f624e3002df12f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/ZEKE_XU/Documents/HabitTracker/assignment1/src/HabitTracker/app/build/intermediates/pre-dexed/debug/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ZEKE_XU/Documents/HabitTracker/assignment1/src/HabitTracker/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="137b7fd18fcc95c625d94001f4b36d3c4c837ce0">
+        <dex dex="/Users/ZEKE_XU/Documents/HabitTracker/assignment1/src/HabitTracker/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_2ba39f3113e839b9df1967fa858f8fdbb2c660c0.jar" />
+    </item>
+
+</items>
